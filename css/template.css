@@ -533,5 +533,11 @@ body{
     
     
 }
+@media (max-width:767px){
+.contact .container .contact_content a{
+    font-size:25px;
+}
+}
+
 
 /* end contact */
