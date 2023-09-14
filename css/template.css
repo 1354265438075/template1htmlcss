@@ -523,6 +523,15 @@ body{
         color:black;
     }
 }
-
+@media (max-width:767px){
+    .contact .container .contact_content .first-p {
+        line-height:70px;
+        
+        
+       
+    }
+    
+    
+}
 
 /* end contact */
